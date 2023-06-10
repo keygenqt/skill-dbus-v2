@@ -1,0 +1,6 @@
+[requires]
+sdbus-cpp/1.2.0
+
+[generators]
+PkgConfigDeps
+MesonToolchain
