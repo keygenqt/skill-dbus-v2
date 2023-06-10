@@ -6,7 +6,7 @@ D-Bus client/server example in c++ using sdbus-c++.
 
 * [sdbus-c++](https://github.com/Kistler-Group/sdbus-cpp)
 
-### Building server/client
+### Building server / client
 
 ```shell
 cd <server/client>
